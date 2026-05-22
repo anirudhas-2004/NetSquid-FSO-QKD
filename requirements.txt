@@ -1,0 +1,7 @@
+customtkinter==5.2.2
+galois==0.4.6
+gmpy2==2.3.0
+matplotlib==3.10.9
+pyzmq==27.1.0
+termcolor==3.3.0
+tqdm==4.67.1
